@@ -1,16 +1,4 @@
-# moda_apllication
+![Screenshot_1664559853](https://user-images.githubusercontent.com/48881290/193328559-7a11d4fc-a82d-4e90-be8f-15cec108b89e.png)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1664559859](https://user-images.githubusercontent.com/48881290/193328502-ff73440b-4821-4b4e-9f88-4030a42e677d.png)
